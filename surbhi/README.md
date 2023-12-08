@@ -21,7 +21,7 @@ section - To divide the section which can help differentiate between diffraction
 There is one function used which is named as showContent(). It will take two parameters, one of which will decide to change the color of the anchor link which is clicked by the user and another one  will decide the div section displayed on the bottom of the navigation bar.
 For eg. When i click on anchor link for hair in nav bar it will show the div which contains product of hair type.
 
- Learning of this Project:- 
+## Learning of this Project:- 
 
 I used to face problems while making a webpage responsive but here i made all the sections of my folder responsive. I added javascript which made the navbar section look good.The functioning of navbar where the products are shown according to clicked  anchor links of navbar also gives user a better experience. 
 
